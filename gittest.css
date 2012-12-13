@@ -1,0 +1,8 @@
+#site-name a:link, #site-name a:visited {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:46px;
+	line-height:53px;
+	color: #333333;
+	text-decoration: none;
+}
